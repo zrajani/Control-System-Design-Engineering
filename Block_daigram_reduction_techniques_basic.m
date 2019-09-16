@@ -1,3 +1,8 @@
+% Code Ad=bstract: Block Daigram Reduction using matlab (Simple Reduction)
+% Author: Zain Rajani
+% Creation Date: November 15, 2018
+% Code reference: Control system engineering, Nagoor Kani
+
 %-------------Block Daigram Reduction-------------------------
 
 %-----Transfer function for various condition-----------------
@@ -5,6 +10,8 @@
 clc;
 clear all;
 close all;
+
+% Eneter the value/ co-efficient of numerator and denominator present in the transfer function
 num1=4;
 den1=[1 2 1];
 num2=7;
