@@ -1,9 +1,11 @@
 %Finding step, ramp and parabolic input response for a closed loop
 % G(s)= 3/s(s+4)
 
+%%Initialize
 clc;
 clear all;
 close all;
+%%
 g1=3;
 g2=conv([1 0],[1,4]);
 g=tf(g1,g2);
