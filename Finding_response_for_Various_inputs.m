@@ -31,9 +31,9 @@ title('Closed loop response for ramp input');  % Graph Title
 legend('Actual Signal','Desired Signal')   % Label both the graphs showing 
 u1=0.5*t.^2;   
 [y1,x1]=lsim(c,u1,t); %plot the values depending on the history of u1 and t for c
-figure;
+figure;    % Create a figure for plotting
 plot(t,y1,u1);
-xlabel('Time in seconds')
-ylabel('Amplitude')
-title('Closed loop response for parabolic input');
-legend('Actual Signal','Desired Signal')
+xlabel('Time in seconds')  % label the x axis
+ylabel('Amplitude')  % Label the y axis
+title('Closed loop response for parabolic input');  % Label the graph
+legend('Actual Signal','Desired Signal')  % Label the lines in the graph
