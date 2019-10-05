@@ -25,7 +25,7 @@ u=t;
 
 % Plot the function 
 figure; plot(t,y,t,u)   % Plotting Function on the same plot
-xlabel('Time in seconds')  %
+xlabel('Time in seconds')  % Label the x axis
 ylabel('Amplitude')
 title('Closed loop response for ramp input');
 legend('Actual Signal','Desired Signal')
