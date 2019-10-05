@@ -5,24 +5,27 @@
 clc;
 clear all;
 close all;
-%% Enter the transfer function
+
+% Enter the transfer function
 g1=3;
 g2=conv([1 0],[1,4]);
 
-%% Generate the transfer function
+% Generate the transfer function
 g=tf(g1,g2);
 h=1;
 
-%% Feedback Generation in the system
+% Feedback Generation in the system
 c=feedback(g,1);
 
-%% Using CSE Toolbox step function to input step function
+% Using CSE Toolbox step function to input step function
 step(c)
 t=0:0.001:10;
 u=t;
 [y,x]=lsim(c,u,t);
-figure; plot(t,y,t,u)
-xlabel('Time in seconds')
+
+% Plot the function 
+figure; plot(t,y,t,u)   % Plotting Function on the same plot
+xlabel('Time in seconds')  %
 ylabel('Amplitude')
 title('Closed loop response for ramp input');
 legend('Actual Signal','Desired Signal')
