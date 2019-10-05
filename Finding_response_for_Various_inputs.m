@@ -12,7 +12,11 @@ g2=conv([1 0],[1,4]);
 %% Generate the transfer function
 g=tf(g1,g2);
 h=1;
+
+%% Feedback Generation in the system
 c=feedback(g,1);
+
+%% Using CSE Toolbox step function to input step function
 step(c)
 t=0:0.001:10;
 u=t;
