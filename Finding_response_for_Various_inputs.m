@@ -27,8 +27,8 @@ u=t;
 figure; plot(t,y,t,u)   % Plotting Function on the same plot
 xlabel('Time in seconds')  % Label the x axis
 ylabel('Amplitude')  % Label the y axis
-title('Closed loop response for ramp input');
-legend('Actual Signal','Desired Signal')
+title('Closed loop response for ramp input');  % Graph Title
+legend('Actual Signal','Desired Signal')   
 u1=0.5*t.^2;
 [y1,x1]=lsim(c,u1,t); %plot the values depending on the history of u1 and t for c
 figure;
