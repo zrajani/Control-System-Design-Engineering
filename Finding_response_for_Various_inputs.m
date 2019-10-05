@@ -5,9 +5,11 @@
 clc;
 clear all;
 close all;
-%%
+%% Enter the transfer function
 g1=3;
 g2=conv([1 0],[1,4]);
+
+%% Generate the transfer function
 g=tf(g1,g2);
 h=1;
 c=feedback(g,1);
