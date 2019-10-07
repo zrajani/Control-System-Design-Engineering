@@ -1,7 +1,7 @@
 %-----------------FREQUENCY DOMAIN ANALYSIS--------------
 
 %----------------BODE PLOT (EXPONENTIAL)-----------------
-
+%Initialize
 clc;
 clear all;
 close all;
