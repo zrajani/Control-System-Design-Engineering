@@ -1,8 +1,7 @@
 %---------------Frequency Response Analysis--------
 
 %----------------BODE PLOT-------------------------
-
-
+%Initialize
 clc;
 clear all;
 close all;
