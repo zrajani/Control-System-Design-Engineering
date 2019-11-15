@@ -4,6 +4,9 @@ Different Concepts of Control System Design Engineering such as Root locus, Bloc
 
 The concepts of control system engineering is done using the built in function in matlab software.
 
+The following concepts are illustrated in this repository:
+1. Block Daigram Reduction Techniques
+
 Software version used: MATLAB R2013b
 
 Working still to avaoid using the built in function and create our own algorithms for the concepts of the control system engineering. 
