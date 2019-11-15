@@ -8,6 +8,7 @@ The following concepts are illustrated in this repository:
 1. Block Daigram Reduction Techniques
 2. Illustration of Bode Plot
 3. Plotting Bode Plot (Zeros and poles of a function)
+4. Finding Response to a system depending on the output of the system
 
 Software version used: MATLAB R2013b
 
