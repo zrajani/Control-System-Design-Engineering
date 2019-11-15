@@ -6,6 +6,8 @@ The concepts of control system engineering is done using the built in function i
 
 The following concepts are illustrated in this repository:
 1. Block Daigram Reduction Techniques
+2. Illustration of Bode Plot
+3. Plotting Bode Plot (Zeros and poles of a function)
 
 Software version used: MATLAB R2013b
 
