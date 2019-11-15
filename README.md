@@ -9,6 +9,12 @@ The following concepts are illustrated in this repository:
 2. Illustration of Bode Plot
 3. Plotting Bode Plot (Zeros and poles of a function)
 4. Finding Response to a system depending on the output of the system
+5. Second Order System in Control Systems
+
+### Each Folder in the Repository will contain:
+1. Program (MATLAB CODE)
+2. Output File 
+3. Readme file containing output figure for immediate view
 
 Software version used: MATLAB R2013b
 
