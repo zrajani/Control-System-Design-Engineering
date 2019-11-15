@@ -1,8 +1,14 @@
+% Program Name: Second Order system in Control System Design
+% Author: Zain Rajani
+% Software Version: MATLAB R2013a
+% Initial Code
 clc;
 clear all;
 close all;
-w=10;
-for l=[0 0.2 0.4 1.0 1.5];
+%% General Parameters for a second order system
+% Second order system is descibed using the formulae:
+w=10;  % Omega value 
+for l=[0 0.2 0.4 1.0 1.5];  % for loop usage and computing the numerator and denomintor values
 num=[w.^2];
 den=[1 2*l*w w.^2];
 t=0:0.01:2;
