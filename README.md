@@ -1,6 +1,6 @@
 # Control-System-Design-Engineering
 
-Design of control system is useful in designing application for automatic system such as 
+Design of control system is useful in designing application for automatic system such as robot design, robust control
 
 Different Concepts of Control System Design Engineering such as Root locus, Block Daigram reduction, Transfer Function Representation Using MATLAB and Simulink 
 
