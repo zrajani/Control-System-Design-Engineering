@@ -10,6 +10,7 @@ The following concepts are illustrated in this repository:
 3. Plotting Bode Plot (Zeros and poles of a function)
 4. Finding Response to a system depending on the output of the system
 5. Second Order System in Control Systems
+6. Polar Plots in Control System
 
 ### Each Folder in the Repository will contain:
 1. Program (MATLAB CODE)
