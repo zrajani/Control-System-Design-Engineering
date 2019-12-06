@@ -21,5 +21,5 @@ The following concepts are illustrated in this repository:
 
 Software version used: MATLAB R2013b
 
-Working still to avaoid using the built in function and create our own algorithms for the concepts of the control system engineering. 
+Working still to avoid using the built in function and create our own algorithms for the concepts of the control system engineering. 
 Also will start illustrating the concepts and usage of simulink software.
