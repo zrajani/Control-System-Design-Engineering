@@ -1,7 +1,7 @@
 % Code Abstract: Block Daigram Reduction using matlab (Simple Reduction)
 % Author: Zain Rajani
 % Creation Date: November 15, 2018
-% Code reference: Control system engineering, Nagoor Kani
+% Code reference: Control system engineering, Nagoor Kani (Book)
 
 %-------------Block Daigram Reduction-------------------------
 
