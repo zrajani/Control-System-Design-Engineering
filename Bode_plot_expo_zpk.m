@@ -23,7 +23,7 @@ disp(wcg)
 %---------------------END-------------------------------%
 
 %%
-%----------------BODE PLOT USING zpk--------------------
+%----------------BODE PLOT USING zpk (zeros, poles and gain respectively) --------------------
 
 clc;
 clear all;
