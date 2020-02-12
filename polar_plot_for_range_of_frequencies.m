@@ -40,6 +40,8 @@ subplot(1,2,2);
 polar(theta2,r2,'k');
 title('Frequency Range for 5 rad/sec to 18 rad/sec');
 
-%figure
-%plot(re2,im2)   %To plot on the normal graph sheet
-%grid on
+
+%% Proceed to this block if want to plot normal graph 
+figure
+plot(re2,im2)   %To plot on the normal graph sheet
+grid on;
