@@ -15,6 +15,8 @@ t=0:0.01:2;
 step(num,den,t)
 hold on;
 end
+
+%Plot Graphs for different values of zeta
 xlabel('Time in sec')
 xlabel('Time in seconds')
 ylabel('Amplitude')
