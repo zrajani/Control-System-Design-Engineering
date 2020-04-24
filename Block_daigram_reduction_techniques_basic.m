@@ -3,7 +3,7 @@
 % Creation Date: November 15, 2018
 % Code reference: Control system engineering, Nagoor Kani (Book)
 
-%-------------Block Daigram Reduction-------------------------
+%-------------Block Daigram Reduction (Simple Illustration)-------------------------
 
 %-----Transfer function for various condition-----------------
 
