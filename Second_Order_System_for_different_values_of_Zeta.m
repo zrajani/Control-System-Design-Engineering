@@ -1,6 +1,10 @@
 % Program Name: Second Order system in Control System Design
+
 % Author: Zain Rajani
-% Software Version: MATLAB R2013a
+
+% Software Version: MATLAB R2013a and later 
+
+
 % Initial Code
 clc;
 clear all;
