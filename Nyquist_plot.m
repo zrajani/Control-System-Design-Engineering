@@ -1,3 +1,7 @@
+% Program Name: Nyquist Plot
+
+% Author: Zain Rajani
+
 %------------------FREQUENCY DOMAIN ANALYSIS----------------
 
 %-----------------NYQUIST PLOT------------------------------
