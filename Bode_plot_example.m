@@ -7,6 +7,7 @@ clear all;
 close all;
 s=tf('s');
 GH=10/(s*(1+0.4*s)*(1+0.1*s));
+%Alternate way to declare transfer function
 %num=10*[0 0 0];
 %den= conv(conv([1 0],[0.4 1]),[0.1 1]);
 %=tf(num,den);
