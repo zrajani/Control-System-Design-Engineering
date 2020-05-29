@@ -45,3 +45,5 @@ title('Frequency Range for 5 rad/sec to 18 rad/sec');
 figure
 plot(re2,im2)   %To plot on the normal graph sheet
 grid on;
+
+%------ End----------
