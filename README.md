@@ -23,7 +23,3 @@ Software version used: MATLAB R2013b
 
 Working still to avoid using the built in function and create our own algorithms for the concepts of the control system engineering. 
 Also will start illustrating the concepts and usage of simulink software.
-
-## Updates
-
-March 29, 2020: Added the reference book by Nagoor Kani on basis of which the repository is being made. [ Failed to Upload contact me at zainrajani2207@gmail.com]
