@@ -23,3 +23,6 @@ Software version used: MATLAB R2013b
 
 Working still to avoid using the built in function and create our own algorithms for the concepts of the control system engineering. 
 Also will start illustrating the concepts and usage of simulink software.
+
+### References Used:
+1. 
