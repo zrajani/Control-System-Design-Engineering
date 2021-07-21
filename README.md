@@ -25,4 +25,4 @@ Working still to avoid using the built in function and create our own algorithms
 Also will start illustrating the concepts and usage of simulink software.
 
 ### References Used:
-1. 
+1. Control system Engineering by Nagoor Kani
